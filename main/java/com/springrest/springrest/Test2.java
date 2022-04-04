@@ -1,5 +1,5 @@
 package com.springrest.springrest;
 
-public class Movie {
-	
+public class Test2 {
+
 }
